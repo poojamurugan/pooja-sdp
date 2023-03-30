@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <title>document></title>
+      <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>the himalayas</h2>
+    <p>the himalayas the highest range  of mountains in the world and home to most of the worlds highest  peaks.which includes mountains</p>
+     <div>
+       <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" width="800px" height="600px">
+     <div>
+      <h1>range of himalayas</h1>
+    </div>
+</div>
+</body>
+</html>
